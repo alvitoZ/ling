@@ -8,3 +8,5 @@ https://docs.google.com/spreadsheets/d/1ZNYNXqbekxl9KrKDdyr7VpGrbKaJhMt-8huQEOGu
 https://docs.google.com/document/u/0/d/1iDVpQ5Dg077AtbmRRtokB3sIh1C3nhNc2xo3uEXcuUc/mobilebasic
 
 https://forms.gle/31A2NEYZ2ZVEUKBZA
+
+https://discovered-road-2a3.notion.site/Skill-Test-19b7c92bbe0947b3be23a2e93c5612f7
