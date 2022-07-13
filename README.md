@@ -10,3 +10,7 @@ https://docs.google.com/document/u/0/d/1iDVpQ5Dg077AtbmRRtokB3sIh1C3nhNc2xo3uEXc
 https://forms.gle/31A2NEYZ2ZVEUKBZA
 
 https://discovered-road-2a3.notion.site/Skill-Test-19b7c92bbe0947b3be23a2e93c5612f7
+
+[13/7 13.53] Mas Rafly: https://www.youtube.com/c/prawitohudoro
+https://www.youtube.com/c/KentCDodds-vids
+[13/7 13.53] Mas Rafly: https://www.youtube.com/c/TheNetNinja
