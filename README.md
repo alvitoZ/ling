@@ -14,3 +14,5 @@ https://discovered-road-2a3.notion.site/Skill-Test-19b7c92bbe0947b3be23a2e93c561
 [13/7 13.53] Mas Rafly: https://www.youtube.com/c/prawitohudoro
 https://www.youtube.com/c/KentCDodds-vids
 [13/7 13.53] Mas Rafly: https://www.youtube.com/c/TheNetNinja
+
+https://discord.com/invite/S4rrXQU
