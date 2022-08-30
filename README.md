@@ -19,3 +19,7 @@ https://discord.com/invite/S4rrXQU
 http://www.omdbapi.com/?i=tt3896198&apikey=6ee3d160
 
 https://www.figma.com/proto/ftoxhKvcTWeiUJ555oBwZv/CV-VITO?page-id=0%3A1&node-id=4%3A35&viewport=-844%2C645%2C1&scaling=min-zoom
+
+https://docs.google.com/document/d/1ygj12L-EFSz364zTZBicEWAIxsDTRQGz6r-hmcIrL_o/edit?usp=sharing
+
+https://forms.gle/m1AMRsiM1x8JpRSa8
