@@ -29,3 +29,5 @@ https://trhtechnology-1009a.web.app/index.html
 https://teams.microsoft.com/l/meetup-join/19%3a78NPhCC49xoGBExAnbKI9Ty90pabkEvEgsSgYc3l51E1%40thread.tacv2/1667898579957?context=%7b%22Tid%22%3a%228a4f8029-887a-4124-8ffc-9d272e01f483%22%2c%22Oid%22%3a%227bc8c8b0-7fcc-4cfc-8098-dd1b58ba7f8e%22%7d
 
 https://teams.microsoft.com/l/meetup-join/19%3A78NPhCC49xoGBExAnbKI9Ty90pabkEvEgsSgYc3l51E1%40thread.tacv2/1667898579957?context=%7B%22Tid%22%3A%228a4f8029-887a-4124-8ffc-9d272e01f483%22%2C%22Oid%22%3A%227bc8c8b0-7fcc-4cfc-8098-dd1b58ba7f8e%22%2C%22MessageId%22%3A%221667898579957%22%7D
+
+https://teams.microsoft.com/l/meetup-join/19%3a78NPhCC49xoGBExAnbKI9Ty90pabkEvEgsSgYc3l51E1%40thread.tacv2/1667995139637?context=%7b%22Tid%22%3a%228a4f8029-887a-4124-8ffc-9d272e01f483%22%2c%22Oid%22%3a%227bc8c8b0-7fcc-4cfc-8098-dd1b58ba7f8e%22%7d
