@@ -40,3 +40,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a78NPhCC49xoGBExAnbKI9Ty90pabkEvEg
 
 http://mahrus-portofolio.heroakuapp.com/
 https://teams.microsoft.com/l/meetup-join/19:78NPhCC49xoGBExAnbKI9Ty90pabkEvEgsSgYc3l51E1@thread.tacv2/1668165978560?context=%7B%22Tid%22:%228a4f8029-887a-4124-8ffc-9d272e01f483%22,%22Oid%22:%227bc8c8b0-7fcc-4cfc-8098-dd1b58ba7f8e%22%7D
+
+https://towardsdatascience.com/image-similarity-with-deep-learning-c17d83068f59
+
+https://tfhub.dev/s?module-type=image-feature-vector
+
+https://tfhub.dev/tensorflow/efficientnet/lite0/feature-vector/2
