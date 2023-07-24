@@ -46,3 +46,5 @@ https://towardsdatascience.com/image-similarity-with-deep-learning-c17d83068f59
 https://tfhub.dev/s?module-type=image-feature-vector
 
 https://tfhub.dev/tensorflow/efficientnet/lite0/feature-vector/2
+
+https://github.com/bnsreenu/python_for_microscopists/blame/master/191_measure_img_similarity.py
