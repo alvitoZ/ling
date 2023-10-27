@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/66193180/how-to-read-the-output-tensor-tflite-in-android-studio
+
 https://www.tensorflow.org/lite/guide/inference?hl=id
 
 https://www.tensorflow.org/lite/android/play_services?hl=id#kotlin_2
