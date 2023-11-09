@@ -1,3 +1,5 @@
+https://www.figma.com/file/RtZSvvmrGzYHdDbSnfyG3H/WEDDING-ORGANIZER?type=design&node-id=7%3A463&mode=design&t=ekMU9VSAUj3w2Rho-1
+
 https://stackoverflow.com/questions/66193180/how-to-read-the-output-tensor-tflite-in-android-studio
 
 https://www.tensorflow.org/lite/guide/inference?hl=id
